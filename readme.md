@@ -10,9 +10,12 @@ It is defined by:
 ## Documentation
 
 Made with OpenApi (Swagger):
-> /swagger-ui/index.html}
+> /swagger-ui/index.html
 
-## Use Guide
+Endpoint:
+> GET /alticci/<INDEX_NUMBER>
+
+## Run instructions
 
 + With Docker
 
@@ -31,7 +34,7 @@ cd build/libs
 java -jar alticci.jar
 ```
 
-## Technologies used
+### Technologies used
 
 + [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 + [Spring Boot](https://spring.io/projects/spring-boot)
