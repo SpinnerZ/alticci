@@ -1,5 +1,12 @@
 # Alticci Sequence
 
+![](https://img.shields.io/docker/image-size/spinnerz/alticci?style=plastic)
+![](https://img.shields.io/docker/automated/spinnerz/alticci?style=plastic)
+![](https://img.shields.io/github/workflow/status/spinnerz/alticci/Build%20Gradle?label=gradle&style=plastic)
+![](https://img.shields.io/github/workflow/status/spinnerz/alticci/Docker%20Image%20CI?label=docker%20workflow&style=plastic)
+![](https://img.shields.io/github/languages/top/spinnerz/alticci?style=plastic)
+![](https://img.shields.io/github/last-commit/spinnerz/alticci/main?style=plastic)
+
 This software is a **REST API** to find the nth number from **Alticci sequence**.
 It is defined by:
 > n=0 => a(0) = 0  
